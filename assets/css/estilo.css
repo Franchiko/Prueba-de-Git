@@ -1,0 +1,25 @@
+
+
+.contain {
+  width: 500px;
+  display: flex;}
+
+.item-1 {
+  flex-basis: 100px ;
+  flex-grow: 1;
+  background-color: grey;}
+
+.item-2 {
+  flex-basis: 100px ;
+  flex-shrink: 2;
+  background-color: pink;}
+
+.item-3 {
+  flex-basis: 100px ;
+  flex-grow: 1;
+  background-color: blue;}
+
+.item-4 {
+  flex-basis: 100px ;
+  flex-grow: 1;
+  background-color: yellow;}
